@@ -1,0 +1,19 @@
+button {
+    animation-duration: 10ms;
+}
+.clickme {
+    color: #f4f1ed;
+    background-color: #0e0d0d;
+    font: 50px;
+    font-family: 'Gothic';
+    font-weight: 400;
+    border: #f6f0f0;
+    border-radius: 2px;
+}
+.noclickme {
+    color: #0f0f0f;
+    background-color: #ffff00;
+    border: #585756bd;
+    font-family: 'Gothic';
+    border-radius: 2px;
+}
